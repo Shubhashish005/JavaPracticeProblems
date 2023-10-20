@@ -7,8 +7,12 @@ public class StringManipulation {
         String[] words = paragraph.replaceAll("\\W+", " ").split("\\s+");
         String result = paragraph.replaceAll("\\W+", " ");
         for (String str : words) {
-            System.out.print(str + " ");
+            //System.out.print(str + " ");
         }
+
+        Integer i = 100;
+        Integer j = 100;
+        System.out.println(i == j);
 
     }
 }
