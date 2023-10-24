@@ -1,4 +1,4 @@
-package info.java.multithreading;
+package info.java.concurrency;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
