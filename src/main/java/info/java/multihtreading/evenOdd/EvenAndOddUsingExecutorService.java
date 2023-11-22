@@ -1,4 +1,4 @@
-package info.java.multihtreading;
+package info.java.multihtreading.evenOdd;
 
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ExecutorService;

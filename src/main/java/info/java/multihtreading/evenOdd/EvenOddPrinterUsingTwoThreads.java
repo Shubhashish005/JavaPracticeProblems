@@ -1,4 +1,4 @@
-package info.java.multihtreading;
+package info.java.multihtreading.evenOdd;
 
 public class EvenOddPrinterUsingTwoThreads implements Runnable {
 
